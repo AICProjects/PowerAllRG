@@ -5,6 +5,7 @@ The project uses a PowerShell Script to either start or stop all virtual machine
 
 Variables to declare
 $RG="<resource group name>" 
+  
 $vm_action="<action type>" 
   
 For $RG, enter the name of the resource grroup.  For $vm_action, it can either be start, or stop.
