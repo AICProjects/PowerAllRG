@@ -11,4 +11,4 @@ For $RG, enter the name of the resource grroup.  For $vm_action, it can either b
 
 When it runs, the script will show a list of all of the vms in the resource group and display if the action is start or stop.
 
-[](images/outputscreenshot01.png)
+![](images/outputscreenshot01.png)
