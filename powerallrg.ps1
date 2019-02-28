@@ -2,7 +2,7 @@
 #az connect
 
 #Define Resource group
-$RG_name="RG-SQLEncryption"
+$RG_name="<Your RG Name HERE>"
 
 #Define the action Accepted actions are start and stop
 $vm_action="stop"
