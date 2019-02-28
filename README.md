@@ -1,4 +1,4 @@
-# PowerOnAllRG
+# PowerAllRG
 This project documents a project that scripts the start and stop for all vms in an Azure Resource Group
 
 The project uses a PowerShell Script to either start or stop all virtual machines in an Azure Resource Group.  The script has two variables.
